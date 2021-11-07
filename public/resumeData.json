@@ -68,10 +68,10 @@
     ],
     "work": [
       {
-        "company": "Verzeo",
-        "title": "Internship Trainee",
-        "years": "April 2021 - Present",
-        "description": "Training for Python and Artificial Intelligence"
+        "company": "The Sparks Foundation",
+        "title": "Web Development Intern",
+        "years": "June 2021 - August 2021",
+        "description": "Payment Gateway integration using Razorpay API"
       }
     ],
     "skills": [
@@ -93,11 +93,31 @@
       },
       {
         "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
         "level": "30%"
       },
       {
-        "name": "Web Development",
-        "level": "40%"
+        "name": "NodeJS",
+        "level": "30%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      },
+      {
+        "name": "AWS",
+        "level": "30%"
       }
     ]
   },
