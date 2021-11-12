@@ -38,10 +38,10 @@ const About = ({ data }) => {
                 <span>
                   {/*{street}
                   <br />*/}
-                  {city},<br /> {state},<br /> {country}
+                  {city}< {state}, {zip}
                 </span>
-                {/*<br />
-                <span>{phone}</span>*/}
+                <br />
+                <span>{phone}</span>
                 <br />
                 <span>{email}</span>
               </p>

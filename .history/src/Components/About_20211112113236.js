@@ -8,7 +8,6 @@ const About = ({ data }) => {
     var street = data.address.street;
     var city = data.address.city;
     var state = data.address.state;
-    var country = data.address.country;
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
@@ -36,12 +35,12 @@ const About = ({ data }) => {
                 <span>{name}</span>
                 <br />
                 <span>
-                  {/*{street}
-                  <br />*/}
-                  {city},<br /> {state},<br /> {country}
+                  {street}
+                  <br />
+                  {city} {state}, {zip}
                 </span>
-                {/*<br />
-                <span>{phone}</span>*/}
+                <br />
+                <span>{phone}</span>
                 <br />
                 <span>{email}</span>
               </p>

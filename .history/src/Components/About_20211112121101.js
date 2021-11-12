@@ -36,12 +36,12 @@ const About = ({ data }) => {
                 <span>{name}</span>
                 <br />
                 <span>
-                  {/*{street}
-                  <br />*/}
-                  {city},<br /> {state},<br /> {country}
+                 {street}
+                  <br />
+                  {city} {state}, {zip}
                 </span>
-                {/*<br />
-                <span>{phone}</span>*/}
+                <br />
+                <span>{phone}</span>
                 <br />
                 <span>{email}</span>
               </p>

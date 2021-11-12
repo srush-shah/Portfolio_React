@@ -38,7 +38,7 @@ const About = ({ data }) => {
                 <span>
                   {/*{street}
                   <br />*/}
-                  {city},<br /> {state},<br /> {country}
+                  {city},<br /> {state},<br/> {country}
                 </span>
                 {/*<br />
                 <span>{phone}</span>*/}
