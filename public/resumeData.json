@@ -3,16 +3,14 @@
     "name": "Srushti Shah",
     "occupation": "Undergrad Student of BE",
     "description": "Coding, Books and Music are my survival assests.",
-    "image": "profilepic.png",
+    "image": "Professional.jpg",
     "bio": "Welcome to my portfolio website! I am a student of Information and Communication Technology pursuing my Bachelors of Engineering in Ahmedabad, India. I have been learning to code since Grade 11 and know various programming languages like C, C++, JavaScript, PHP and Python. I have also learned and practised on Frontend Web Development using basics of HTML, CSS and Bootstrap. I am now working on advanicing my Frontend Web Development skills using React, and learning Backend Web Development using NodeJS. Currently I am an internship trainee at Verzeo in Artificial Intelligence. You can call me a real nerd, as I am always ready to code or read a book.",
     "contactmessage": "Get in touch with me to know more about me and get updates about my progress!",
     "email": "srushti1010shah@gmail.com",
-    "phone": "+91 123567890",
     "address": {
-      "street": "Developers' Street",
       "city": "Ahmedabad",
       "state": "Gujarat",
-      "zip": "W3B DEV"
+      "country": "India"
     },
     "website": "https://linktr.ee/srushti_shah",
     "resumedownload": "https://github.com/srush-shah/resume",
