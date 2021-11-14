@@ -2,7 +2,7 @@
 
 ![Srushti Shah Portfolio Website](resume-screenshot.jpg?raw=true "Srushti Shah Portfolio Website")
 
-### <a href="https://srushti-shah-portfolio.netlify.app/">LIVE DEMO</a>
+### <a href="https://srushtishah.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
