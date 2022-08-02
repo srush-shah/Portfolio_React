@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Srushti Shah",
-    "occupation": "Undergrad Student of BE",
+    "occupation": "BE Undergrad Senior",
     "description": "Coding, Books and Music are my survival assests.",
     "image": "Professional.jpg",
     "bio": "Welcome to my portfolio website! I am a student of Information and Communication Technology pursuing my Bachelors of Engineering in Ahmedabad, India. I have been learning to code since Grade 11 and know various programming languages like C, C++, JavaScript, PHP and Python. I have also learned and practised on Frontend Web Development using basics of HTML, CSS and Bootstrap. I am now working on advanicing my Frontend Web Development skills using React, and learning Backend Web Development using NodeJS. Currently I am an internship trainee at Verzeo in Artificial Intelligence. You can call me a real nerd, as I am always ready to code or read a book.",
@@ -46,6 +46,12 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": "Stanford University, California, USA",
+        "degree": "Summer Session - CS229, CS193C, ME344",
+        "graduated": "August 14, 2022",
+        "description": "Presently Enrolled"
+      },
+      {
         "school": "Adani Institute of Infrastructure Engineering, Ahmedabad",
         "degree": "Bachelor's Degree, Information and Communication Technology",
         "graduated": "May 2023",
@@ -66,10 +72,17 @@
     ],
     "work": [
       {
-        "company": "The Sparks Foundation",
-        "title": "Web Development Intern",
-        "years": "June 2021 - August 2021",
-        "description": "Payment Gateway integration using Razorpay API"
+        "company": "Team Furrier",
+        "title": "Back-End Web Developer",
+        "years": "Jan 2022 - Present",
+        "description": "This is a startup working on the welfare and adoption of pets and requires a user-friendly, functional website for the same. My duties are to add the functions to this website and make it dynamic. I will be using NodeJS and ExpressJS for the same.
+"
+      },
+      {
+        "company": "Young India NPO",
+        "title": "Back-End Web Developer",
+        "years": "Jan 2022 - Present",
+        "description": "This startup is working for the young generation of India and as its back-end developer, I am working on making its website functional, dynamic and easy to use."
       }
     ],
     "skills": [
@@ -83,15 +96,15 @@
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "90%"
       },
       {
         "name": "Git",
-        "level": "50%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
-        "level": "50%"
+        "level": "80%"
       },
       {
         "name": "HTML",
@@ -99,7 +112,7 @@
       },
       {
         "name": "CSS",
-        "level": "70%"
+        "level": "85%"
       },
       {
         "name": "ReactJS",
@@ -107,15 +120,15 @@
       },
       {
         "name": "NodeJS",
-        "level": "30%"
+        "level": "60%"
       },
       {
         "name": "MongoDB",
-        "level": "30%"
+        "level": "50%"
       },
       {
         "name": "AWS",
-        "level": "30%"
+        "level": "20%"
       }
     ]
   },
