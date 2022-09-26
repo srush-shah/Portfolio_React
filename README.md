@@ -1,6 +1,6 @@
 # PAPA React JS Resume Starter Pack and Digital Portfolio
 
-![Srushti Shah Portfolio Website](resume-screenshot.jpg?raw=true "Srushti Shah Portfolio Website")
+![Srushti Shah Portfolio Website](resume-screenshot.png?raw=true "Srushti Shah Portfolio Website")
 
 ### <a href="https://srushtishah.netlify.app/">LIVE DEMO</a>
 
