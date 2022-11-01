@@ -72,16 +72,16 @@
     ],
     "work": [
       {
-        "company": "Team Furrier",
-        "title": "Back-End Web Developer",
-        "years": "Jan 2022 - Present",
-        "description": "This is a startup working on the welfare and adoption of pets and requires a user-friendly, functional website for the same. My duties are to add the functions to this website and make it dynamic. I will be using NodeJS and ExpressJS for the same."
+        "company": "Space Applications Center, ISRO",
+        "title": "Research Intern",
+        "years": "Sep 2022 - Present",
+        "description": "I am working in the Quantum Communication department, building a Windows Desktop Software for displaying communicated parameters for continuous monitoring using Visual Studio 2019 and C# as my tools. I am also researching on further developing application to enable secure one-to-one audiovisual communication. I am working with a teammate who is helping with testing of the application."
       },
       {
-        "company": "Young India NPO",
-        "title": "Back-End Web Developer",
-        "years": "Jan 2022 - Present",
-        "description": "This startup is working for the young generation of India and as its back-end developer, I am working on making its website functional, dynamic and easy to use."
+        "company": "ShapeAI",
+        "title": "Full-Stack Development Intern",
+        "years": "Jun 2021 - Oct 2021",
+        "description": "Learned front-end and back-end web development using React, Node, Express, etc. and preparing data structures and algorithms simultaneously, and made projects along the way."
       }
     ],
     "skills": [
@@ -150,6 +150,12 @@
         "category": "",
         "image": "ProductLandingPage.png",
         "url": "https://codepen.io/srushtishah/pen/wvzRBMY"
+      },
+      {
+        "title": "TaskY: Task Management App",
+        "category": "",
+        "image": "Tasky.png",
+        "url": "https://srush-shah.github.io/Task-Management-App/"
       }
     ]
   }
