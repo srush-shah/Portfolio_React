@@ -134,10 +134,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "FreeCodeCamp Survey Form from Scratch",
+        "title": "Zomato Landing Page",
         "category": "",
-        "image": "SurveyForm.png",
-        "url": "https://codepen.io/srushtishah/pen/zYKLZdL"
+        "image": "Zomato.png",
+        "url": "https://srush-shah.github.io/Zomato-Landing-Page/"
       },
       {
         "title": "FreeCodeCamp Tribute Page from Scratch",
