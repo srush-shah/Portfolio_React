@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Srushti Shah",
-    "occupation": "BE Undergrad Senior",
-    "description": "Coding, Books and Music are my survival assests",
-    "image": "Professional.jpg",
-    "bio": "Welcome to my portfolio website! I am a student of Information and Communication Technology pursuing my Bachelors of Engineering in Ahmedabad, India. I have been learning to code since Grade 11 and know various programming languages like C, C++, JavaScript, PHP and Python. I have also learned and practised on Frontend Web Development using basics of HTML, CSS and Bootstrap. I am now working on advanicing my Frontend Web Development skills using React, and learning Backend Web Development using NodeJS. Currently I am an internship trainee at Verzeo in Artificial Intelligence. You can call me a real nerd, as I am always ready to code or read a book.",
-    "contactmessage": "Get in touch with me to know more about me and get updates about my progress!",
+    "occupation": "Prospective Graduate Student",
+    "description": "Coding, Books and Music are my survival assets",
+    "image": "ProfessionalNew.jpg",
+    "bio": "Welcome to my portfolio website! I am a Bachelor of Engineering graduate in the major Information and Communication Technology, currently situated in Ahmedabad, India. I have been learning to code since Grade 11 and know various programming languages like C, C++, JavaScript, PHP and Python. Frontend Web Development has been one of my major interests, and I have worked with HTML5, CSS, Javascript, Bootstrap, TailwindCSS, MaterialUI, React.js and NodeJS to build personal projects as well as for internship projects and interview tasks. Furthermore, I have managed to learn C#, .NET framework, and Visual Studio 2019 to build a desktop project as part of my internship with Space Applications Center, ISRO. Being an enthusiast for Artificial Intelligence, I strive to dive deep into the field and bring my ideas to life. Currently, I am applying for a degree of Master of Science in Computer Science with an aim to specialize in Artificial Intelligence in the United States. It would be right to call me a nerd, as I am ever-ready to code or read a book. After an exhausting day of work or study, I revitalize by enjoying mystery thriller books and Bollywood songs that incorporate Indian classical music.",
+    "contactmessage": "Get in touch with me to know more!",
     "email": "srushti1010shah@gmail.com",
     "address": {
       "city": "Ahmedabad",
@@ -49,13 +49,13 @@
         "school": "Stanford University, California, USA",
         "degree": "Summer Session - CS229, CS193C, ME344",
         "graduated": "August 14, 2022",
-        "description": "Presently Enrolled"
+        "description": "Graduated with a GPA of 3.44 out of 4.00"
       },
       {
         "school": "Adani Institute of Infrastructure Engineering, Ahmedabad",
-        "degree": "Bachelor's Degree, Information and Communication Technology",
+        "degree": "Bachelor's of Engineering, Information and Communication Technology",
         "graduated": "May 2023",
-        "description": "Presently Enrolled"
+        "description": "Graduated with a CGPA of 8.49 out of 10.00"
       },
       {
         "school": "The New Tulip International School, Ahmedabad",
@@ -72,16 +72,22 @@
     ],
     "work": [
       {
-        "company": "Space Applications Center, ISRO",
-        "title": "Research Intern",
-        "years": "Sep 2022 - Present",
-        "description": "I am working in the Quantum Communication department, building a Windows Desktop Software for displaying communicated parameters for continuous monitoring using Visual Studio 2019 and C# as my tools. I am also researching on further developing application to enable secure one-to-one audiovisual communication. I am working with a teammate who is helping with testing of the application."
+        "company": "Cabbagesoft Technologies",
+        "title": "React Development Intern",
+        "years": "Apr 2023 - Jun 2023",
+        "description": "I worked on developing my expertise in the concepts of React which included class and functional components, hooks, React Router, and Redux. I applied these skills to building multiple client modules with enhanced UI and functionalities, as well as improving previous modules as per client requirements, working on bugs and adding new features."
       },
       {
-        "company": "ShapeAI",
-        "title": "Full-Stack Development Intern",
-        "years": "Jun 2021 - Oct 2021",
-        "description": "Learned front-end and back-end web development using React, Node, Express, etc. and preparing data structures and algorithms simultaneously, and made projects along the way."
+        "company": "Bhaskaracharya National Institute for Space Applications and Geo-informatics",
+        "title": "Research Intern",
+        "years": "Jan 2023 - May 2023",
+        "description": "Perform EDA on Air Quality dataset taken from Kaggle of 146 Indian cities ranging from 2013 to 2022, and trained the dataset on various models like Linear Regression, Decision Tree Regression, and Neural Network to accurately predict the Air Quality Index. Due to the huge size of the dataset, I configured the CUDA and CudNN to utilise the GPU and increase the efficiency of model training."
+      },
+      {
+        "company": "Space Applications Center, ISRO",
+        "title": "Research Intern",
+        "years": "Sep 2022 - Nov 2022",
+        "description": "I worked in the Quantum Communication department, building a Windows Desktop Software for displaying communicated parameters for continuous monitoring using Visual Studio 2019 and C# as my tools. I also did some reading on Quantum Communication, its background and the possibilities it presents. I built this application along with a fellow intern under the guidance of a senior scientist and mentors from within the department."
       }
     ],
     "skills": [
@@ -99,11 +105,11 @@
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "95%"
       },
       {
         "name": "HTML",
@@ -115,47 +121,43 @@
       },
       {
         "name": "ReactJS",
-        "level": "30%"
+        "level": "80%"
       },
       {
         "name": "NodeJS",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "MongoDB",
-        "level": "50%"
-      },
-      {
-        "name": "AWS",
-        "level": "20%"
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "BookMyShow Clone",
+        "category": "",
+        "image": "BookMyShowClone.png",
+        "url": "https://book-my-show-clone-srushti.vercel.app/"
+      },
+      {
+        "title": "Giphy Search App",
+        "category": "",
+        "image": "GiphySearchApp.png",
+        "url": "https://giphy-search-srushti.vercel.app/"
+      },
+      {
+        "title": "Trading Web App UI",
+        "category": "",
+        "image": "TradingApp.png",
+        "url": "https://trading-web-app.vercel.app/"
+      },
+      {
         "title": "Zomato Landing Page",
         "category": "",
         "image": "Zomato.png",
         "url": "https://srush-shah.github.io/Zomato-Landing-Page/"
-      },
-      {
-        "title": "FreeCodeCamp Tribute Page from Scratch",
-        "category": "",
-        "image": "TributePage.png",
-        "url": "https://codepen.io/srushtishah/pen/dypKPxX"
-      },
-      {
-        "title": "FreeCodeCamp Product Landing Page from Scratch",
-        "category": "",
-        "image": "ProductLandingPage.png",
-        "url": "https://codepen.io/srushtishah/pen/wvzRBMY"
-      },
-      {
-        "title": "TaskY: Task Management App",
-        "category": "",
-        "image": "Tasky.png",
-        "url": "https://srush-shah.github.io/Task-Management-App/"
       }
     ]
   }
