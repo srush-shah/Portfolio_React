@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Srushti Shah",
+    "occupation": "Graduate Student",
+    "description": "Coding, books and music are my survival assets",
+    "image": "ProfessionalNew.jpeg",
+    "bio": "Welcome to my portfolio website! I am a Master of Engineering student majoring in Computer Engineering at New York University in the Big Apple. I have been learning to code since Grade 11 and know various programming languages like C, C++, JavaScript, PHP and Python. Frontend Web Development has been one of my major interests, and I have worked with HTML5, CSS, Javascript, Bootstrap, TailwindCSS, MaterialUI, React.js and NodeJS to build personal projects as well as for internship projects and interview tasks. Furthermore, I have managed to learn C#, .NET framework, and Visual Studio 2019 to build a desktop project as part of my internship with Space Applications Center, ISRO. Being an enthusiast for Artificial Intelligence, I strive to dive deep into the field and bring my ideas to life. Currently, I am taking up some intersting courses like Deep Learning, ML Systems Engineering and Operation, and Data Science for Business under some of the coolest professors! It would be right to call me a nerd, as I am ever-ready to code or read a book. After an exhausting day of work or study, I revitalize by enjoying mystery thriller books and Bollywood songs that incorporate Indian classical music.",
+    "contactmessage": "Get in touch with me to know more!",
+    "email": "srushti1010shah@gmail.com",
+    "address": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "website": "https://credentials748089461.wordpress.com/",
+    "resumedownload": "https://drive.google.com/file/d/1nRtnzWF410b8sjxkMwCUGvKEcvXoedll/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/SrushtiShah10/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vlogthevirtual/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/srushtishah10/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/srushti.10/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/srush-shah",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "New York University, NY",
+        "degree": "Master of Science, Computer Engineering",
+        "graduated": "Sept 2024 - May 2026",
+        "description": "Graduate student with current GPA of 3.778 out of 4.00"
+      },
+      {
+        "school": "Stanford University, CA",
+        "degree": "Summer Session - CS229, CS193C, ME344",
+        "graduated": "June 18, 2022 - August 14, 2022",
+        "description": "Graduated with a GPA of 3.44 out of 4.00"
+      },
+      {
+        "school": "Adani Institute of Infrastructure Engineering, Ahmedabad",
+        "degree": "Bachelor's of Engineering, Information and Communication Technology",
+        "graduated": "June 2019 - June 2023",
+        "description": "Graduated with a CGPA of 8.49 out of 10.00"
+      },
+      {
+        "school": "The New Tulip International School, Ahmedabad",
+        "degree": "Higher Secondary Education (Grade 12)",
+        "graduated": "April 2018 - March 2019",
+        "description": "Graduated with 94.8% in CBSE"
+      },
+      {
+        "school": "The New Tulip International School, Ahmedabad",
+        "degree": "Secondary Education (Grade 10)",
+        "graduated": "April 2016 - March 2017",
+        "description": "Graduated with 10 CGPA in CBSE"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cabbagesoft Technologies",
+        "title": "React Development Intern",
+        "years": "Apr 2023 - Jun 2023",
+        "description": " I worked on feature development for two client websites, focusing on enhancing UI and functionality. I collaborated on requirements and design, implemented features, and conducted unit and integration testing to ensure quality. Additionally, I contributed to design discussions and user acceptance testing, gaining hands-on experience with the full project lifecycle while working with cross-functional teams. This experience strengthened my skills in React.js, frontend development, and building user-friendly web applications."
+      },
+      {
+        "company": "Bhaskaracharya National Institute for Space Applications and Geo-informatics",
+        "title": "Research Intern",
+        "years": "Jan 2023 - May 2023",
+        "description": "I worked on analyzing air quality data from Indian cities spanning 2013 to 2022. I performed data preprocessing and exploratory analysis to prepare for predictive modeling and implemented machine learning algorithms, including Linear Regression, Decision Tree, and Neural Networks, to predict AQI trends. Additionally, I optimized model training by configuring CUDA and cuDNN for GPU acceleration. This experience deepened my understanding of data-driven insights, predictive analytics, and high-performance computing."
+      },
+      {
+        "company": "Space Applications Center, ISRO",
+        "title": "Research Intern",
+        "years": "Sep 2022 - Nov 2022",
+        "description": "I developed a Windows desktop application for real-time monitoring of Quantum Key Distribution (QKD) metrics in the Quantum Communication department. I designed and implemented a user-friendly interface to track and display critical parameters, ensuring continuous observation and analysis. The project involved working with C# and XAML within the .NET 5.0 framework, enhancing my skills in software development for scientific applications, real-time data visualization, and system optimization."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BookMyShow Clone",
+        "category": "",
+        "image": "BookMyShowClone.png",
+        "url": "https://book-my-show-clone-srushti.vercel.app/"
+      },
+      {
+        "title": "Giphy Search App",
+        "category": "",
+        "image": "GiphySearchApp.png",
+        "url": "https://giphy-search-srushti.vercel.app/"
+      },
+      {
+        "title": "Trading Web App UI",
+        "category": "",
+        "image": "TradingApp.png",
+        "url": "https://trading-web-app.vercel.app/"
+      },
+      {
+        "title": "Zomato Landing Page",
+        "category": "",
+        "image": "Zomato.png",
+        "url": "https://srush-shah.github.io/Zomato-Landing-Page/"
+      }
+    ]
+  }
+}

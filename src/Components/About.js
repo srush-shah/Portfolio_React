@@ -8,7 +8,6 @@ const About = ({ data }) => {
     //var street = data.address.street;
     var city = data.address.city;
     var state = data.address.state;
-    var country = data.address.country;
     //var zip = data.address.zip;
     //var phone = data.phone;
     var email = data.email;
@@ -38,7 +37,7 @@ const About = ({ data }) => {
                 <span>
                   {/*{street}
                   <br />*/}
-                  {city},<br /> {state},<br /> {country}
+                  {city}, {state}
                 </span>
                 {/*<br />
                 <span>{phone}</span>*/}
@@ -48,7 +47,7 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button" download="SrushtiShah_Resume.pdf">
+                <a href={resumeDownload} target="_blank_" className="button" download="SrushtiShah_Resume.pdf">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
