@@ -6,18 +6,18 @@ const Contact = ({ data }) => {
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
 
-  if (data) {
-    var contactName = data.name;
-    var street = data.address.street;
-    var city = data.address.city;
-    var state = data.address.state;
-    var zip = data.address.zip;
-    var phone = data.phone;
-    var contactEmail = data.email;
-    var contactMessage = data.contactmessage;
-  }
+  const contactName = data?.name || "";
+  const address = data?.address || {};
+  const street = address.street || "";
+  const city = address.city || "";
+  const state = address.state || "";
+  const zip = address.zip || "";
+  const phone = data?.phone || "";
+  const contactEmail = data?.email || "";
+  const contactMessage = data?.contactmessage || "";
 
-  const submitForm = () => {
+  const submitForm = (event) => {
+    event.preventDefault();
     window.open(
       `mailto:${contactEmail}?subject=${encodeURIComponent(
         subject
@@ -103,7 +103,7 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                <button type="submit" className="submit">
                   Submit
                 </button>
               </div>
@@ -121,15 +121,26 @@ const Contact = ({ data }) => {
           <div className="widget widget_contact">
             <h4>Address and Phone</h4>
             <p className="address">
-              {contactName}
-              <br />
-              {contactEmail}
-              <br />
-              <br />
-              {street} <br />
-              {city}, {state} {zip}
-              <br />
-              <span>{phone}</span>
+              {contactName && (
+                <>
+                  {contactName}
+                  <br />
+                </>
+              )}
+              {contactEmail && (
+                <>
+                  {contactEmail}
+                  <br />
+                  <br />
+                </>
+              )}
+              {[street, city, state, zip].filter(Boolean).join(", ")}
+              {phone && (
+                <>
+                  <br />
+                  <span>{phone}</span>
+                </>
+              )}
             </p>
           </div>
         </aside>
