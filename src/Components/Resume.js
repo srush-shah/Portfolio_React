@@ -12,6 +12,13 @@ const Resume = ({ data }) => {
             <em className="date">{education.graduated}</em>
           </p>
           <p>{education.description}</p>
+          {education.coursework && (
+            <ul className="details">
+              {education.coursework.map((course) => (
+                <li key={course}>{course}</li>
+              ))}
+            </ul>
+          )}
         </div>
       );
     });
@@ -24,6 +31,13 @@ const Resume = ({ data }) => {
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
           <p>{work.description}</p>
+          {work.highlights && (
+            <ul className="details">
+              {work.highlights.map((highlight) => (
+                <li key={highlight}>{highlight}</li>
+              ))}
+            </ul>
+          )}
         </div>
       );
     });

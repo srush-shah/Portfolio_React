@@ -1,168 +1,144 @@
 {
   "main": {
     "name": "Srushti Shah",
-    "occupation": "Graduate Student",
-    "description": "Coding, books and music are my survival assets",
+    "occupation": "AI/ML Engineer & Data Systems Builder",
+    "description": "Engineering production-grade analytics, knowledge graph pipelines, and ML products that deliver business impact",
     "image": "ProfessionalNew.jpeg",
-    "bio": "Welcome to my portfolio website! I am a Master of Engineering student majoring in Computer Engineering at New York University in the Big Apple. I have been learning to code since Grade 11 and know various programming languages like C, C++, JavaScript, PHP and Python. Frontend Web Development has been one of my major interests, and I have worked with HTML5, CSS, Javascript, Bootstrap, TailwindCSS, MaterialUI, React.js and NodeJS to build personal projects as well as for internship projects and interview tasks. Furthermore, I have managed to learn C#, .NET framework, and Visual Studio 2019 to build a desktop project as part of my internship with Space Applications Center, ISRO. Being an enthusiast for Artificial Intelligence, I strive to dive deep into the field and bring my ideas to life. Currently, I am taking up some intersting courses like Deep Learning, ML Systems Engineering and Operation, and Data Science for Business under some of the coolest professors at Tandon School of Engineering as well as Stern School of Business at NYU. It would be right to call me a nerd, as I am ever-ready to code or read a book. After an exhausting day of work or study, I revitalize by enjoying mystery thriller books and Bollywood songs that incorporate Indian classical music.",
-    "contactmessage": "Get in touch with me to know more!",
-    "email": "srushti1010shah@gmail.com",
+    "bio": "I am a Computer Engineering graduate student at New York University who specializes in applied machine learning, knowledge graph analytics, and scalable data platforms. I love architecting systems that translate research ideas into reliable products—whether that means optimizing inference paths, building lineage-aware data pipelines, or shipping intuitive dashboards.",
+    "contactmessage": "Interested in AI engineering, data platforms, or product collaborations? Let’s talk about how I can help deliver measurable results.",
+    "email": "srushtishah@nyu.edu",
+    "phone": "+1 (732) 740-1799",
     "address": {
       "city": "New York",
       "state": "NY"
     },
-    "website": "https://credentials748089461.wordpress.com/",
-    "resumedownload": "https://github.com/srush-shah/resume/blob/main/SrushtiShah_Resume.pdf",
+    "website": "https://srushtishah.netlify.app/",
+    "resumedownload": "https://github.com/srush-shah/resume/raw/main/SrushtiShah_Resume.pdf",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/SrushtiShah10/",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/vlogthevirtual/",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/srushtishah10/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/srushti.10/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/srush-shah",
         "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:srushtishah@nyu.edu",
+        "className": "fa fa-envelope"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Technologies I rely on to design resilient data products, ship ML features, and accelerate engineering teams.",
     "education": [
       {
         "school": "New York University, NY",
-        "degree": "Master of Science, Computer Engineering",
-        "graduated": "Sept 2024 - May 2026",
-        "description": "Graduate student with current GPA of 3.778 out of 4.00"
+        "degree": "Master of Science, Computer Engineering (GPA: 3.63 / 4.00)",
+        "graduated": "Sept 2024 – Dec 2025",
+        "description": "Graduate coursework blending AI systems, applied machine learning, and analytics for business impact.",
+        "coursework": [
+          "Machine Learning",
+          "Deep Learning",
+          "MLOps",
+          "Data Science for Business",
+          "Natural Language Processing"
+        ]
       },
       {
-        "school": "Stanford University, CA",
-        "degree": "Summer Session - CS229, CS193C, ME344",
-        "graduated": "June 18, 2022 - August 14, 2022",
-        "description": "Graduated with a GPA of 3.44 out of 4.00"
-      },
-      {
-        "school": "Adani Institute of Infrastructure Engineering, Ahmedabad",
-        "degree": "Bachelor's of Engineering, Information and Communication Technology",
-        "graduated": "June 2019 - June 2023",
-        "description": "Graduated with a CGPA of 8.49 out of 10.00"
-      },
-      {
-        "school": "The New Tulip International School, Ahmedabad",
-        "degree": "Higher Secondary Education (Grade 12)",
-        "graduated": "April 2018 - March 2019",
-        "description": "Graduated with 94.8% in CBSE"
-      },
-      {
-        "school": "The New Tulip International School, Ahmedabad",
-        "degree": "Secondary Education (Grade 10)",
-        "graduated": "April 2016 - March 2017",
-        "description": "Graduated with 10 CGPA in CBSE"
+        "school": "Gujarat Technological University, India",
+        "degree": "Bachelor of Engineering, Information and Communication Technology (GPA: 8.49 / 10.00)",
+        "graduated": "Jul 2019 – Jun 2023",
+        "description": "Focused on AI, data mining, and large-scale software engineering with strong algorithmic foundations.",
+        "coursework": [
+          "Machine Learning",
+          "Artificial Intelligence",
+          "Data Mining & Business Intelligence",
+          "Big Data Analytics",
+          "Software Engineering"
+        ]
       }
     ],
     "work": [
       {
+        "company": "Stardog Union",
+        "title": "Engineering Intern",
+        "years": "May 2025 – Dec 2025",
+        "description": "Integrated predictive analytics and data lineage into enterprise-grade knowledge graph products.",
+        "highlights": [
+          "Integrated the CARTE ML system into Voicebox3 by building the CartePrediction class for natural language-driven regression and classification over knowledge graphs.",
+          "Created a 6-point evaluation and A/B testing framework to benchmark predictive performance and model quality.",
+          "Engineered a high-throughput graph transformation pipeline that streamed 100M+ DataFrame rows into Stardog RDF graphs and PyTorch Geometric formats, improving ingestion scalability by 85%.",
+          "Optimized ML inference with CPU-optimized ensemble strategies and threading controls, cutting latency by ~40% while resolving concurrency faults.",
+          "Architected granular data lineage with five computation strategies (Schema, Instance, Construct, Intersection, Union), reducing provenance runtime from 10s to under 1s with 92% test coverage.",
+          "Built automated MLOps flows for target column detection using LLM prompts and adaptive preprocessing (imputation, encoding), achieving 95% model accuracy on tabular KG extracts."
+        ]
+      },
+      {
         "company": "Cabbagesoft Technologies",
-        "title": "React Development Intern",
-        "years": "Apr 2023 - Jun 2023",
-        "description": " I worked on feature development for two client websites, focusing on enhancing UI and functionality. I collaborated on requirements and design, implemented features, and conducted unit and integration testing to ensure quality. Additionally, I contributed to design discussions and user acceptance testing, gaining hands-on experience with the full project lifecycle while working with cross-functional teams. This experience strengthened my skills in React.js, frontend development, and building user-friendly web applications."
+        "title": "Software Development Intern – Frontend",
+        "years": "Apr 2023 – Jun 2023",
+        "description": "Delivered production-ready React features for client sites while tightening quality and release speed.",
+        "highlights": [
+          "Implemented 5+ front-end features with React Hooks, React Router, and Bootstrap, reducing delivery timelines by 20% through performance-focused refactors.",
+          "Strengthened reliability by adding unit and integration tests, decreasing post-deployment bugs by 30%.",
+          "Managed GitLab workflows and resolved 95% of merge conflicts independently to keep releases on track.",
+          "Partnered with designers and QA to iterate on UX, lifting user satisfaction by 15% through UAT-driven refinements."
+        ]
       },
       {
         "company": "Bhaskaracharya National Institute for Space Applications and Geo-informatics",
         "title": "Research Intern",
-        "years": "Jan 2023 - May 2023",
-        "description": "I worked on analyzing air quality data from Indian cities spanning 2013 to 2022. I performed data preprocessing and exploratory analysis to prepare for predictive modeling and implemented machine learning algorithms, including Linear Regression, Decision Tree, and Neural Networks, to predict AQI trends. Additionally, I optimized model training by configuring CUDA and cuDNN for GPU acceleration. This experience deepened my understanding of data-driven insights, predictive analytics, and high-performance computing."
-      },
-      {
-        "company": "Space Applications Center, ISRO",
-        "title": "Research Intern",
-        "years": "Sep 2022 - Nov 2022",
-        "description": "I developed a Windows desktop application for real-time monitoring of Quantum Key Distribution (QKD) metrics in the Quantum Communication department. I designed and implemented a user-friendly interface to track and display critical parameters, ensuring continuous observation and analysis. The project involved working with C# and XAML within the .NET 5.0 framework, enhancing my skills in software development for scientific applications, real-time data visualization, and system optimization."
+        "years": "Jan 2023 – May 2023",
+        "description": "Built data pipelines and predictive models to study air quality trends across India.",
+        "highlights": [
+          "Preprocessed and analyzed air quality data from 146 cities (2013–2022) to surface trends for forecasting.",
+          "Implemented regression, decision tree, and neural network models, achieving MAE of 0.661.",
+          "Configured CUDA and cuDNN to shrink model training time from 3 hours to 30 minutes on large datasets."
+        ]
       }
     ],
     "skills": [
-      {
-        "name": "C",
-        "level": "80%"
-      },
-      {
-        "name": "C++",
-        "level": "80%"
-      },
-      {
-        "name": "Python",
-        "level": "90%"
-      },
-      {
-        "name": "Git",
-        "level": "90%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "100%"
-      },
-      {
-        "name": "HTML",
-        "level": "100%"
-      },
-      {
-        "name": "CSS",
-        "level": "100%"
-      },
-      {
-        "name": "ReactJS",
-        "level": "95%"
-      },
-      {
-        "name": "NodeJS",
-        "level": "90%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "70%"
-      }
+      { "name": "Python", "level": "95%" },
+      { "name": "JavaScript / TypeScript", "level": "95%" },
+      { "name": "React & Next.js", "level": "90%" },
+      { "name": "Node.js & Express", "level": "85%" },
+      { "name": "PyTorch & TensorFlow", "level": "85%" },
+      { "name": "LangChain / LangGraph", "level": "85%" },
+      { "name": "Graph Analytics (RDF/SPARQL, PyG)", "level": "80%" },
+      { "name": "SQL & MongoDB", "level": "85%" },
+      { "name": "Docker & CI/CD", "level": "85%" },
+      { "name": "Data Engineering & ETL", "level": "90%" }
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "AI Compliance & Risk Review System",
+        "category": "Multi-agent compliance automation with Next.js dashboards, PostgreSQL schema, and REST APIs for risk scoring and reporting.",
+        "image": "ai-compliance.svg",
+        "url": "https://github.com/srush-shah"
+      },
+      {
+        "title": "Restaurant Recommender System",
+        "category": "Content-based recommendations with FastAPI, Dockerized deployment, and Prometheus/Grafana monitoring.",
+        "image": "restaurant-recommender.svg",
+        "url": "https://github.com/srush-shah"
+      },
+      {
+        "title": "Voicebox3 Predictive Analytics Integration",
+        "category": "LangChain-based conversational analytics with CARTE ML and lineage-aware knowledge graph transformations.",
+        "image": "voicebox3-carte.svg",
+        "url": "https://github.com/srush-shah"
+      },
+      {
         "title": "BookMyShow Clone",
-        "category": "",
+        "category": "Ticketing UI clone with React, modern routing, and responsive theming.",
         "image": "BookMyShowClone.png",
         "url": "https://book-my-show-clone-srushti.vercel.app/"
-      },
-      {
-        "title": "Giphy Search App",
-        "category": "",
-        "image": "GiphySearchApp.png",
-        "url": "https://giphy-search-srushti.vercel.app/"
-      },
-      {
-        "title": "Trading Web App UI",
-        "category": "",
-        "image": "TradingApp.png",
-        "url": "https://trading-web-app.vercel.app/"
-      },
-      {
-        "title": "Zomato Landing Page",
-        "category": "",
-        "image": "Zomato.png",
-        "url": "https://srush-shah.github.io/Zomato-Landing-Page/"
       }
     ]
   }
