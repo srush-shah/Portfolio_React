@@ -10,7 +10,6 @@ const Contact = ({ data }) => {
     var contactName = data.name;
     var city = data.address?.city;
     var state = data.address?.state;
-    var phone = data.phone;
     var contactEmail = data.email;
     var contactMessage = data.contactmessage;
     var location = [city, state].filter(Boolean).join(", ");
@@ -120,15 +119,13 @@ const Contact = ({ data }) => {
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Address and Phone</h4>
+            <h4>Address and Email</h4>
             <p className="address">
               {contactName}
               <br />
               {location}
               <br />
               <span>{contactEmail}</span>
-              <br />
-              <span>{phone}</span>
             </p>
           </div>
         </aside>

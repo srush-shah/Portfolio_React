@@ -7,7 +7,6 @@
     "bio": "I am a Computer Engineering graduate student at New York University who specializes in applied machine learning, ML systems, and scalable data platforms. I love translating research ideas into reliable products—whether that means optimizing inference, hardening training pipelines, or shipping intuitive dashboards that explain complex models.",
     "contactmessage": "Interested in AI/ML engineering, data platforms, or product collaborations? Let’s talk about how I can help deliver measurable results.",
     "email": "srushtishah@nyu.edu",
-    "phone": "+1 (732) 740-1799",
     "address": {
       "city": "New York",
       "state": "NY"
@@ -46,6 +45,17 @@
           "MLOps",
           "Data Science for Business",
           "Natural Language Processing"
+        ]
+      },
+      {
+        "school": "Stanford University, CA",
+        "degree": "Summer Session – CS229, CS193C, ME344 (GPA: 3.44 / 4.00)",
+        "graduated": "Jun 2022 – Aug 2022",
+        "description": "Completed intensive AI, ML, and software engineering coursework with a focus on practical implementation.",
+        "coursework": [
+          "CS229: Machine Learning",
+          "CS193C: Client-Side Internet Technologies",
+          "ME344: Organizational Psychology of Design Teams"
         ]
       },
       {
@@ -98,6 +108,18 @@
           "Preprocessed and analyzed air quality data from 146 cities (2013–2022) to surface trends for forecasting.",
           "Implemented regression, decision tree, and neural network models, achieving MAE of 0.661.",
           "Configured CUDA and cuDNN to shrink model training time from 3 hours to 30 minutes on large datasets."
+        ]
+      },
+      {
+        "company": "Space Applications Center, ISRO",
+        "title": "Research Intern – Quantum Communication Department",
+        "years": "Sep 2022 – Nov 2022",
+        "description": "Built desktop tooling to monitor Quantum Key Distribution metrics for real-time analysis.",
+        "highlights": [
+          "Developed a Windows desktop application for real-time monitoring of Quantum Key Distribution (QKD) metrics.",
+          "Designed interfaces to display and track 7+ parameters for continuous observation and analysis.",
+          "Built with C# and XAML in .NET 5.0 using Visual Studio 2019 to meet department tooling standards.",
+          "Gained hands-on experience shipping software for scientific workflows and real-time data visualization."
         ]
       }
     ],
