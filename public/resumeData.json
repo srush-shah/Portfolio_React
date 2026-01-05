@@ -2,10 +2,10 @@
   "main": {
     "name": "Srushti Shah",
     "occupation": "AI/ML Engineer & Data Systems Builder",
-    "description": "Engineering production-grade analytics, knowledge graph pipelines, and ML products that deliver business impact",
+    "description": "Engineering production-grade AI features, data platforms, and ML products that deliver business impact",
     "image": "ProfessionalNew.jpeg",
-    "bio": "I am a Computer Engineering graduate student at New York University who specializes in applied machine learning, knowledge graph analytics, and scalable data platforms. I love architecting systems that translate research ideas into reliable products—whether that means optimizing inference paths, building lineage-aware data pipelines, or shipping intuitive dashboards.",
-    "contactmessage": "Interested in AI engineering, data platforms, or product collaborations? Let’s talk about how I can help deliver measurable results.",
+    "bio": "I am a Computer Engineering graduate student at New York University who specializes in applied machine learning, ML systems, and scalable data platforms. I love translating research ideas into reliable products—whether that means optimizing inference, hardening training pipelines, or shipping intuitive dashboards that explain complex models.",
+    "contactmessage": "Interested in AI/ML engineering, data platforms, or product collaborations? Let’s talk about how I can help deliver measurable results.",
     "email": "srushtishah@nyu.edu",
     "phone": "+1 (732) 740-1799",
     "address": {
@@ -67,14 +67,14 @@
         "company": "Stardog Union",
         "title": "Engineering Intern",
         "years": "May 2025 – Dec 2025",
-        "description": "Integrated predictive analytics and data lineage into enterprise-grade knowledge graph products.",
+        "description": "Built AI/ML capabilities into an enterprise analytics platform, spanning predictive modeling, data lineage, and high-scale ingestion.",
         "highlights": [
-          "Integrated the CARTE ML system into Voicebox3 by building the CartePrediction class for natural language-driven regression and classification over knowledge graphs.",
-          "Created a 6-point evaluation and A/B testing framework to benchmark predictive performance and model quality.",
-          "Engineered a high-throughput graph transformation pipeline that streamed 100M+ DataFrame rows into Stardog RDF graphs and PyTorch Geometric formats, improving ingestion scalability by 85%.",
+          "Integrated the CARTE ML system into Voicebox3 by building the CartePrediction class for natural language-driven regression and classification over enterprise data.",
+          "Created a 6-point evaluation and A/B testing framework to benchmark predictive performance and model quality across ML models.",
+          "Engineered a high-throughput transformation pipeline that streamed 100M+ DataFrame rows into Stardog RDF graphs and PyTorch Geometric formats, improving ingestion scalability by 85%.",
           "Optimized ML inference with CPU-optimized ensemble strategies and threading controls, cutting latency by ~40% while resolving concurrency faults.",
           "Architected granular data lineage with five computation strategies (Schema, Instance, Construct, Intersection, Union), reducing provenance runtime from 10s to under 1s with 92% test coverage.",
-          "Built automated MLOps flows for target column detection using LLM prompts and adaptive preprocessing (imputation, encoding), achieving 95% model accuracy on tabular KG extracts."
+          "Built automated MLOps flows for target column detection using LLM prompts and adaptive preprocessing (imputation, encoding), achieving 95% model accuracy on tabular datasets."
         ]
       },
       {
@@ -130,7 +130,7 @@
       },
       {
         "title": "Voicebox3 Predictive Analytics Integration",
-        "category": "LangChain-based conversational analytics with CARTE ML and lineage-aware knowledge graph transformations.",
+        "category": "LangChain-based conversational analytics that blend CARTE ML predictions with explainable data transformations.",
         "image": "voicebox3-carte.svg",
         "url": "https://github.com/srush-shah"
       },
