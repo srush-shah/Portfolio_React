@@ -8,16 +8,16 @@ const Contact = ({ data }) => {
 
   if (data) {
     var contactName = data.name;
-    var street = data.address.street;
-    var city = data.address.city;
-    var state = data.address.state;
-    var zip = data.address.zip;
-    var phone = data.phone;
+    var city = data.address?.city;
+    var state = data.address?.state;
     var contactEmail = data.email;
     var contactMessage = data.contactmessage;
+    var location = [city, state].filter(Boolean).join(", ");
   }
 
-  const submitForm = () => {
+  const submitForm = (event) => {
+    event.preventDefault();
+
     window.open(
       `mailto:${contactEmail}?subject=${encodeURIComponent(
         subject
@@ -103,7 +103,7 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                <button type="submit" className="submit">
                   Submit
                 </button>
               </div>
@@ -119,17 +119,13 @@ const Contact = ({ data }) => {
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Address and Phone</h4>
+            <h4>Address and Email</h4>
             <p className="address">
               {contactName}
               <br />
-              {contactEmail}
+              {location}
               <br />
-              <br />
-              {street} <br />
-              {city}, {state} {zip}
-              <br />
-              <span>{phone}</span>
+              <span>{contactEmail}</span>
             </p>
           </div>
         </aside>

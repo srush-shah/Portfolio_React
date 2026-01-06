@@ -3,3 +3,9 @@
   border-radius: 5px;
   padding: 20px;
 }
+
+.details {
+  margin: 10px 0 20px 20px;
+  list-style: disc;
+  line-height: 1.6;
+}
