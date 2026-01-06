@@ -142,13 +142,13 @@
         "title": "AI Compliance & Risk Review System",
         "category": "Multi-agent compliance automation with Next.js dashboards, PostgreSQL schema, and REST APIs for risk scoring and reporting.",
         "image": "ai-compliance.svg",
-        "url": "https://github.com/srush-shah"
+        "url": "https://github.com/srush-shah/ai-compliance-system"
       },
       {
         "title": "Restaurant Recommender System",
         "category": "Content-based recommendations with FastAPI, Dockerized deployment, and Prometheus/Grafana monitoring.",
         "image": "restaurant-recommender.svg",
-        "url": "https://github.com/srush-shah"
+        "url": "https://github.com/srush-shah/restaurant-recommender"
       },
       {
         "title": "Tasky Productivity Manager",
