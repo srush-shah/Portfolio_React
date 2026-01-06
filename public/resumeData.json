@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Srushti Shah",
-    "occupation": "AI/ML engineer building production data & model systems",
-    "description": "I ship reliable ML features, data pipelines, and dashboards that turn models into products",
+    "occupation": "AI/ML engineer for production data & model systems",
+    "description": "Ship resilient ML pipelines, fast inference, and dashboards that explain models",
     "image": "ProfessionalNew.jpeg",
     "bio": "I am a Computer Engineering graduate student at New York University who specializes in applied machine learning, ML systems, and scalable data platforms. I love translating research ideas into reliable products—whether that means optimizing inference, hardening training pipelines, or shipping intuitive dashboards that explain complex models.",
     "contactmessage": "Interested in AI/ML engineering, data platforms, or product collaborations? Let’s talk about how I can help deliver measurable results.",
