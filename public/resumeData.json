@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Srushti Shah",
-    "occupation": "AI/ML Engineer & Data Systems Builder",
-    "description": "Engineering production-grade AI features, data platforms, and ML products that deliver business impact",
+    "occupation": "AI/ML engineer building production data & model systems",
+    "description": "I ship reliable ML features, data pipelines, and dashboards that turn models into products",
     "image": "ProfessionalNew.jpeg",
     "bio": "I am a Computer Engineering graduate student at New York University who specializes in applied machine learning, ML systems, and scalable data platforms. I love translating research ideas into reliable products—whether that means optimizing inference, hardening training pipelines, or shipping intuitive dashboards that explain complex models.",
     "contactmessage": "Interested in AI/ML engineering, data platforms, or product collaborations? Let’s talk about how I can help deliver measurable results.",
@@ -124,16 +124,16 @@
       }
     ],
     "skills": [
-      { "name": "Python", "level": "95%" },
-      { "name": "JavaScript / TypeScript", "level": "95%" },
-      { "name": "React & Next.js", "level": "90%" },
-      { "name": "Node.js & Express", "level": "85%" },
-      { "name": "PyTorch & TensorFlow", "level": "85%" },
-      { "name": "LangChain / LangGraph", "level": "85%" },
-      { "name": "Graph Analytics (RDF/SPARQL, PyG)", "level": "80%" },
+      { "name": "Python", "level": "90%" },
+      { "name": "JavaScript / TypeScript", "level": "90%" },
+      { "name": "React & Next.js", "level": "85%" },
+      { "name": "Node.js & Express", "level": "80%" },
+      { "name": "PyTorch & TensorFlow", "level": "80%" },
+      { "name": "LangChain / LangGraph", "level": "80%" },
+      { "name": "Graph Analytics (RDF/SPARQL, PyG)", "level": "75%" },
       { "name": "SQL & MongoDB", "level": "85%" },
       { "name": "Docker & CI/CD", "level": "85%" },
-      { "name": "Data Engineering & ETL", "level": "90%" }
+      { "name": "Data Engineering & ETL", "level": "85%" }
     ]
   },
   "portfolio": {
@@ -151,10 +151,10 @@
         "url": "https://github.com/srush-shah"
       },
       {
-        "title": "Voicebox3 Predictive Analytics Integration",
-        "category": "LangChain-based conversational analytics that blend CARTE ML predictions with explainable data transformations.",
-        "image": "voicebox3-carte.svg",
-        "url": "https://github.com/srush-shah"
+        "title": "Tasky Productivity Manager",
+        "category": "Kanban-style task manager with search, status filters, and persistent storage for personal productivity.",
+        "image": "Tasky.png",
+        "url": "https://github.com/srush-shah/Tasky"
       },
       {
         "title": "BookMyShow Clone",
